@@ -1,0 +1,455 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F7341A69-E1F5-4FF2-85A5-A005803D432D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>FinalStaffManager</RootNamespace>
+    <AssemblyName>FinalStaffManager</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.52, Version=1.3.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Bunifu_UI_v1.52.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AddEmployee.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="AddEmployee.Designer.cs">
+      <DependentUpon>AddEmployee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddNewEmployee.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="AddNewEmployee.Designer.cs">
+      <DependentUpon>AddNewEmployee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AttendanceComapererViewerRow.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="AttendanceComapererViewerRow.Designer.cs">
+      <DependentUpon>AttendanceComapererViewerRow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Class\ComboBoxItem.cs" />
+    <Compile Include="Class\Connection.cs" />
+    <Compile Include="Class\Employee.cs" />
+    <Compile Include="Class\EmployeeHelper.cs" />
+    <Compile Include="Class\AllImportedAttendance.cs" />
+    <Compile Include="Class\EmployeeOFF.cs" />
+    <Compile Include="Class\EmployeeOFFHelper.cs" />
+    <Compile Include="Class\EmployeeSchedule.cs" />
+    <Compile Include="Class\EmployeeScheduleHelper.cs" />
+    <Compile Include="Class\ImportedAttendanceHelper.cs" />
+    <Compile Include="Class\Job_Info.cs" />
+    <Compile Include="Class\Job_InfoHelper.cs" />
+    <Compile Include="Class\RCODE.cs" />
+    <Compile Include="Class\RcodeHelper.cs" />
+    <Compile Include="Class\RotationSchedule.cs" />
+    <Compile Include="Class\RotationScheduleHelper.cs" />
+    <Compile Include="Class\Schedule Period.cs" />
+    <Compile Include="Class\Schedule_PeriodHelper.cs" />
+    <Compile Include="Class\SCODE.cs" />
+    <Compile Include="Class\ScodeHelper.cs" />
+    <Compile Include="Class\ZipCode.cs" />
+    <Compile Include="Class\ZipcodeHelper.cs" />
+    <Compile Include="EmployeeContactNumbers.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="EmployeeContactNumbers.Designer.cs">
+      <DependentUpon>EmployeeContactNumbers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmployeeFileManager.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="EmployeeFileManager.Designer.cs">
+      <DependentUpon>EmployeeFileManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\AttendanceComaperer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\AttendanceComaperer.Designer.cs">
+      <DependentUpon>AttendanceComaperer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\PrintEmployeeFile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\PrintEmployeeFile.Designer.cs">
+      <DependentUpon>PrintEmployeeFile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\PrintSchedule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\PrintSchedule.Designer.cs">
+      <DependentUpon>PrintSchedule.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\rCodeChecker.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\rCodeChecker.Designer.cs">
+      <DependentUpon>rCodeChecker.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\SetEmployeeDayOff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\SetEmployeeDayOff.Designer.cs">
+      <DependentUpon>SetEmployeeDayOff.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Home.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Home.Designer.cs">
+      <DependentUpon>Home.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ImportedAttendance.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ImportedAttendance.Designer.cs">
+      <DependentUpon>ImportedAttendance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ListofEmployeeForExport.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ListofEmployeeForExport.Designer.cs">
+      <DependentUpon>ListofEmployeeForExport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ListOfEmployeeRows.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ListOfEmployeeRows.Designer.cs">
+      <DependentUpon>ListOfEmployeeRows.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Other Sceduling Tool.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Other Sceduling Tool.Designer.cs">
+      <DependentUpon>Other Sceduling Tool.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OtherSchedulingPeriodRow.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="OtherSchedulingPeriodRow.Designer.cs">
+      <DependentUpon>OtherSchedulingPeriodRow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OtherSchedulingTool.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="OtherSchedulingTool.Designer.cs">
+      <DependentUpon>OtherSchedulingTool.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RcodeMenu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="RcodeMenu.Designer.cs">
+      <DependentUpon>RcodeMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RCODETableParts.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="RCODETableParts.Designer.cs">
+      <DependentUpon>RCODETableParts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RCODE_Display.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="RCODE_Display.Designer.cs">
+      <DependentUpon>RCODE_Display.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SchedulePeriodMenu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="SchedulePeriodMenu.Designer.cs">
+      <DependentUpon>SchedulePeriodMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SchedulePeriodRow.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="SchedulePeriodRow.Designer.cs">
+      <DependentUpon>SchedulePeriodRow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ScodeChoices.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ScodeChoices.Designer.cs">
+      <DependentUpon>ScodeChoices.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SRSScode.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="SRSScode.Designer.cs">
+      <DependentUpon>SRSScode.cs</DependentUpon>
+    </Compile>
+    <Compile Include="srsScodeItems.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="srsScodeItems.Designer.cs">
+      <DependentUpon>srsScodeItems.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StaffRotationSchedulerMenu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="StaffRotationSchedulerMenu.Designer.cs">
+      <DependentUpon>StaffRotationSchedulerMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TimeAndAttendanceCorrector.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="TimeAndAttendanceCorrector.Designer.cs">
+      <DependentUpon>TimeAndAttendanceCorrector.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucEmployees.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucEmployees.Designer.cs">
+      <DependentUpon>ucEmployees.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UpdateEmployee.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UpdateEmployee.Designer.cs">
+      <DependentUpon>UpdateEmployee.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AddEmployee.resx">
+      <DependentUpon>AddEmployee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddNewEmployee.resx">
+      <DependentUpon>AddNewEmployee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AttendanceComapererViewerRow.resx">
+      <DependentUpon>AttendanceComapererViewerRow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmployeeContactNumbers.resx">
+      <DependentUpon>EmployeeContactNumbers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmployeeFileManager.resx">
+      <DependentUpon>EmployeeFileManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\AttendanceComaperer.resx">
+      <DependentUpon>AttendanceComaperer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\PrintEmployeeFile.resx">
+      <DependentUpon>PrintEmployeeFile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\PrintSchedule.resx">
+      <DependentUpon>PrintSchedule.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\rCodeChecker.resx">
+      <DependentUpon>rCodeChecker.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\SetEmployeeDayOff.resx">
+      <DependentUpon>SetEmployeeDayOff.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Home.resx">
+      <DependentUpon>Home.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ImportedAttendance.resx">
+      <DependentUpon>ImportedAttendance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ListofEmployeeForExport.resx">
+      <DependentUpon>ListofEmployeeForExport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ListOfEmployeeRows.resx">
+      <DependentUpon>ListOfEmployeeRows.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Other Sceduling Tool.resx">
+      <DependentUpon>Other Sceduling Tool.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OtherSchedulingPeriodRow.resx">
+      <DependentUpon>OtherSchedulingPeriodRow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OtherSchedulingTool.resx">
+      <DependentUpon>OtherSchedulingTool.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="RcodeMenu.resx">
+      <DependentUpon>RcodeMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RCODETableParts.resx">
+      <DependentUpon>RCODETableParts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RCODE_Display.resx">
+      <DependentUpon>RCODE_Display.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SchedulePeriodMenu.resx">
+      <DependentUpon>SchedulePeriodMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SchedulePeriodRow.resx">
+      <DependentUpon>SchedulePeriodRow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ScodeChoices.resx">
+      <DependentUpon>ScodeChoices.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SRSScode.resx">
+      <DependentUpon>SRSScode.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="srsScodeItems.resx">
+      <DependentUpon>srsScodeItems.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StaffRotationSchedulerMenu.resx">
+      <DependentUpon>StaffRotationSchedulerMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TimeAndAttendanceCorrector.resx">
+      <DependentUpon>TimeAndAttendanceCorrector.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucEmployees.resx">
+      <DependentUpon>ucEmployees.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdateEmployee.resx">
+      <DependentUpon>UpdateEmployee.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\call-answer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\smartphone-call.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\noimagefound.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\admin-settings-male.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\employees.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\calendar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\staff-people-group-in-a-circular-arrow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\calendar %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\seat.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\process.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\process %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\process %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\process %283%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\import.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\loading.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\view.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\database.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\refresh.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\calendar %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\transferring.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\schedule.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

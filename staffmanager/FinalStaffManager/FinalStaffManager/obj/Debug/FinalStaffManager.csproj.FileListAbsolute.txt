@@ -1,0 +1,128 @@
+C:\Users\balon\Documents\Visual Studio 2013\Projects\FinalStaffManager\FinalStaffManager\bin\Debug\FinalStaffManager.exe.config
+C:\Users\balon\Documents\Visual Studio 2013\Projects\FinalStaffManager\FinalStaffManager\bin\Debug\FinalStaffManager.exe
+C:\Users\balon\Documents\Visual Studio 2013\Projects\FinalStaffManager\FinalStaffManager\bin\Debug\FinalStaffManager.pdb
+C:\Users\balon\Documents\Visual Studio 2013\Projects\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.EmployeeFileManager.resources
+C:\Users\balon\Documents\Visual Studio 2013\Projects\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.Form1.resources
+C:\Users\balon\Documents\Visual Studio 2013\Projects\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.Forms.TestForm.resources
+C:\Users\balon\Documents\Visual Studio 2013\Projects\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.Home.resources
+C:\Users\balon\Documents\Visual Studio 2013\Projects\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.Properties.Resources.resources
+C:\Users\balon\Documents\Visual Studio 2013\Projects\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.ucEmployees.resources
+C:\Users\balon\Documents\Visual Studio 2013\Projects\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.csproj.GenerateResource.Cache
+C:\Users\balon\Documents\Visual Studio 2013\Projects\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.exe
+C:\Users\balon\Documents\Visual Studio 2013\Projects\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.pdb
+C:\Users\balon\Documents\Visual Studio 2013\Projects\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.AddNewEmployee.resources
+C:\Users\balon\Documents\Visual Studio 2013\Projects\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.AddEmployee.resources
+C:\Users\balon\Documents\Visual Studio 2013\Projects\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.ImportedAttendance.resources
+C:\Users\balon\Documents\Visual Studio 2013\Projects\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.TimeAndAttendanceCorrector.resources
+C:\Users\balon\Documents\Visual Studio 2013\Projects\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.csprojResolveAssemblyReference.cache
+C:\Users\balon\Desktop\Academics\Database\Module2\FinalStaffManager\FinalStaffManager\bin\Debug\FinalStaffManager.exe.config
+C:\Users\balon\Desktop\Academics\Database\Module2\FinalStaffManager\FinalStaffManager\bin\Debug\FinalStaffManager.exe
+C:\Users\balon\Desktop\Academics\Database\Module2\FinalStaffManager\FinalStaffManager\bin\Debug\FinalStaffManager.pdb
+C:\Users\balon\Desktop\Academics\Database\Module2\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.AddEmployee.resources
+C:\Users\balon\Desktop\Academics\Database\Module2\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.AddNewEmployee.resources
+C:\Users\balon\Desktop\Academics\Database\Module2\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.EmployeeContactNumbers.resources
+C:\Users\balon\Desktop\Academics\Database\Module2\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.EmployeeFileManager.resources
+C:\Users\balon\Desktop\Academics\Database\Module2\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.Form1.resources
+C:\Users\balon\Desktop\Academics\Database\Module2\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.Forms.rCodeChecker.resources
+C:\Users\balon\Desktop\Academics\Database\Module2\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.Home.resources
+C:\Users\balon\Desktop\Academics\Database\Module2\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.ImportedAttendance.resources
+C:\Users\balon\Desktop\Academics\Database\Module2\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.Other_Sceduling_Tool.resources
+C:\Users\balon\Desktop\Academics\Database\Module2\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.Properties.Resources.resources
+C:\Users\balon\Desktop\Academics\Database\Module2\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.RcodeMenu.resources
+C:\Users\balon\Desktop\Academics\Database\Module2\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.RCODETableParts.resources
+C:\Users\balon\Desktop\Academics\Database\Module2\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.ScodeChoices.resources
+C:\Users\balon\Desktop\Academics\Database\Module2\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.SRSScode.resources
+C:\Users\balon\Desktop\Academics\Database\Module2\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.srsScodeItems.resources
+C:\Users\balon\Desktop\Academics\Database\Module2\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.StaffRotationSchedulerMenu.resources
+C:\Users\balon\Desktop\Academics\Database\Module2\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.TimeAndAttendanceCorrector.resources
+C:\Users\balon\Desktop\Academics\Database\Module2\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.ucEmployees.resources
+C:\Users\balon\Desktop\Academics\Database\Module2\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.UpdateEmployee.resources
+C:\Users\balon\Desktop\Academics\Database\Module2\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.csproj.GenerateResource.Cache
+C:\Users\balon\Desktop\Academics\Database\Module2\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.exe
+C:\Users\balon\Desktop\Academics\Database\Module2\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.pdb
+C:\Users\balon\Desktop\Academics\Database\Module2\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.RCODE_Display.resources
+C:\Users\balon\Desktop\Academics\Database\Module2\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.SchedulePeriodRow.resources
+C:\Users\balon\Desktop\Academics\Database\Module2\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.schedulePeriodMenu.resources
+C:\Users\balon\Desktop\Academics\Database\Module2\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.Forms.PrintSchedule.resources
+C:\Users\balon\Desktop\Academics\Database\Module2\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.OtherSchedulingPeriodRow.resources
+C:\Users\balon\Desktop\Academics\Database\Module2\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.OtherSchedulingTool.resources
+C:\Users\balon\Desktop\Academics\Database\Module2\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.Forms.PrintEmployeeFile.resources
+C:\Users\balon\Desktop\Academics\Database\Module2\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.ListofEmployeeForExport.resources
+C:\Users\balon\Desktop\Academics\Database\Module2\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.ListOfEmployeeRows.resources
+C:\Users\balon\Desktop\Academics\Database\Module2\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.csprojResolveAssemblyReference.cache
+C:\Users\balon\Desktop\Project\Module 2\FinalStaffManager\FinalStaffManager\bin\Debug\FinalStaffManager.exe.config
+C:\Users\balon\Desktop\Project\Module 2\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.exe
+C:\Users\balon\Desktop\Project\Module 2\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.pdb
+C:\Users\balon\Desktop\Project\Module 2\FinalStaffManager\FinalStaffManager\bin\Debug\FinalStaffManager.exe
+C:\Users\balon\Desktop\Project\Module 2\FinalStaffManager\FinalStaffManager\bin\Debug\FinalStaffManager.pdb
+C:\Users\balon\Desktop\Project\Module 2\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.AddEmployee.resources
+C:\Users\balon\Desktop\Project\Module 2\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.AddNewEmployee.resources
+C:\Users\balon\Desktop\Project\Module 2\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.EmployeeContactNumbers.resources
+C:\Users\balon\Desktop\Project\Module 2\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.EmployeeFileManager.resources
+C:\Users\balon\Desktop\Project\Module 2\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.Form1.resources
+C:\Users\balon\Desktop\Project\Module 2\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.Forms.PrintEmployeeFile.resources
+C:\Users\balon\Desktop\Project\Module 2\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.Forms.PrintSchedule.resources
+C:\Users\balon\Desktop\Project\Module 2\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.Forms.rCodeChecker.resources
+C:\Users\balon\Desktop\Project\Module 2\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.Home.resources
+C:\Users\balon\Desktop\Project\Module 2\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.ImportedAttendance.resources
+C:\Users\balon\Desktop\Project\Module 2\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.ListofEmployeeForExport.resources
+C:\Users\balon\Desktop\Project\Module 2\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.ListOfEmployeeRows.resources
+C:\Users\balon\Desktop\Project\Module 2\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.Other_Sceduling_Tool.resources
+C:\Users\balon\Desktop\Project\Module 2\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.OtherSchedulingPeriodRow.resources
+C:\Users\balon\Desktop\Project\Module 2\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.OtherSchedulingTool.resources
+C:\Users\balon\Desktop\Project\Module 2\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.Properties.Resources.resources
+C:\Users\balon\Desktop\Project\Module 2\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.RcodeMenu.resources
+C:\Users\balon\Desktop\Project\Module 2\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.RCODETableParts.resources
+C:\Users\balon\Desktop\Project\Module 2\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.RCODE_Display.resources
+C:\Users\balon\Desktop\Project\Module 2\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.schedulePeriodMenu.resources
+C:\Users\balon\Desktop\Project\Module 2\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.SchedulePeriodRow.resources
+C:\Users\balon\Desktop\Project\Module 2\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.ScodeChoices.resources
+C:\Users\balon\Desktop\Project\Module 2\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.SRSScode.resources
+C:\Users\balon\Desktop\Project\Module 2\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.srsScodeItems.resources
+C:\Users\balon\Desktop\Project\Module 2\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.StaffRotationSchedulerMenu.resources
+C:\Users\balon\Desktop\Project\Module 2\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.TimeAndAttendanceCorrector.resources
+C:\Users\balon\Desktop\Project\Module 2\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.ucEmployees.resources
+C:\Users\balon\Desktop\Project\Module 2\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.UpdateEmployee.resources
+C:\Users\balon\Desktop\Project\Module 2\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.csproj.GenerateResource.Cache
+C:\Users\balon\Desktop\Project\Module 2\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.csprojResolveAssemblyReference.cache
+C:\Users\balon\Desktop\Project\Module 2\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.AttendanceComapererViewerRow.resources
+C:\Users\balon\Desktop\Project\Module 2\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.Forms.AttendanceComaperer.resources
+C:\Users\balon\Desktop\Project\Module 2\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.Forms.SetEmployeeDayOff.resources
+C:\Users\balon\Desktop\Staff Master\Module 2\FinalStaffManager\FinalStaffManager\bin\Debug\FinalStaffManager.exe.config
+C:\Users\balon\Desktop\Staff Master\Module 2\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.exe
+C:\Users\balon\Desktop\Staff Master\Module 2\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.pdb
+C:\Users\balon\Desktop\Staff Master\Module 2\FinalStaffManager\FinalStaffManager\bin\Debug\FinalStaffManager.exe
+C:\Users\balon\Desktop\Staff Master\Module 2\FinalStaffManager\FinalStaffManager\bin\Debug\FinalStaffManager.pdb
+C:\Users\balon\Desktop\Staff Master\Module 2\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.csprojResolveAssemblyReference.cache
+C:\Users\balon\Desktop\Staff Master\Module 2\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.AddEmployee.resources
+C:\Users\balon\Desktop\Staff Master\Module 2\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.AddNewEmployee.resources
+C:\Users\balon\Desktop\Staff Master\Module 2\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.AttendanceComapererViewerRow.resources
+C:\Users\balon\Desktop\Staff Master\Module 2\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.EmployeeContactNumbers.resources
+C:\Users\balon\Desktop\Staff Master\Module 2\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.EmployeeFileManager.resources
+C:\Users\balon\Desktop\Staff Master\Module 2\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.Form1.resources
+C:\Users\balon\Desktop\Staff Master\Module 2\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.Forms.AttendanceComaperer.resources
+C:\Users\balon\Desktop\Staff Master\Module 2\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.Forms.PrintEmployeeFile.resources
+C:\Users\balon\Desktop\Staff Master\Module 2\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.Forms.PrintSchedule.resources
+C:\Users\balon\Desktop\Staff Master\Module 2\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.Forms.rCodeChecker.resources
+C:\Users\balon\Desktop\Staff Master\Module 2\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.Forms.SetEmployeeDayOff.resources
+C:\Users\balon\Desktop\Staff Master\Module 2\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.Home.resources
+C:\Users\balon\Desktop\Staff Master\Module 2\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.ImportedAttendance.resources
+C:\Users\balon\Desktop\Staff Master\Module 2\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.ListofEmployeeForExport.resources
+C:\Users\balon\Desktop\Staff Master\Module 2\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.ListOfEmployeeRows.resources
+C:\Users\balon\Desktop\Staff Master\Module 2\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.Other_Sceduling_Tool.resources
+C:\Users\balon\Desktop\Staff Master\Module 2\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.OtherSchedulingPeriodRow.resources
+C:\Users\balon\Desktop\Staff Master\Module 2\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.OtherSchedulingTool.resources
+C:\Users\balon\Desktop\Staff Master\Module 2\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.Properties.Resources.resources
+C:\Users\balon\Desktop\Staff Master\Module 2\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.RcodeMenu.resources
+C:\Users\balon\Desktop\Staff Master\Module 2\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.RCODETableParts.resources
+C:\Users\balon\Desktop\Staff Master\Module 2\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.RCODE_Display.resources
+C:\Users\balon\Desktop\Staff Master\Module 2\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.schedulePeriodMenu.resources
+C:\Users\balon\Desktop\Staff Master\Module 2\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.SchedulePeriodRow.resources
+C:\Users\balon\Desktop\Staff Master\Module 2\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.ScodeChoices.resources
+C:\Users\balon\Desktop\Staff Master\Module 2\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.SRSScode.resources
+C:\Users\balon\Desktop\Staff Master\Module 2\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.srsScodeItems.resources
+C:\Users\balon\Desktop\Staff Master\Module 2\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.StaffRotationSchedulerMenu.resources
+C:\Users\balon\Desktop\Staff Master\Module 2\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.TimeAndAttendanceCorrector.resources
+C:\Users\balon\Desktop\Staff Master\Module 2\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.ucEmployees.resources
+C:\Users\balon\Desktop\Staff Master\Module 2\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.UpdateEmployee.resources
+C:\Users\balon\Desktop\Staff Master\Module 2\FinalStaffManager\FinalStaffManager\obj\Debug\FinalStaffManager.csproj.GenerateResource.Cache
